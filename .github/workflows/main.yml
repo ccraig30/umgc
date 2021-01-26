@@ -21,7 +21,10 @@ jobs:
 
       uses: azure/webapps-deploy@v1
 
-      with:cmst385-ccraig9777
+      with: 
+      
+      app-name:
+      cmst385-ccraig30
       
        slot-name: 'production'
        
